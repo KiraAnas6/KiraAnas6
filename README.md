@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Anas%20Ezzine&fontAlign=50&fontSize=48" />
 <h1 align="center">Hey 👋, I'm Anas</h1>
 <h3 align="center">Frontend Developer • Creative Coder • UI Enthusiast</h3>
 
