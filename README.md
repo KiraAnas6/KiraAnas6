@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./gif_banner.gif" width="1500" height="400" >
+<img src="./gif_banner.gif" width="1500" height="200" >
 </p>
 <h1 align="center">Hey 👋, I'm Anas</h1>
 <h3 align="center">Frontend Developer • Creative Coder • UI Enthusiast</h3>
