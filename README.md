@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/user-attachments/assets/79f13571-2e5d-4ee6-8d29-ed675e54b6f8](https://github-production-user-asset-6210df.s3.amazonaws.com/145233518/554518613-a4f88bef-8766-46ec-82a2-238dfe02f54a.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260225T035508Z&X-Amz-Expires=300&X-Amz-Signature=d61a95b1ad3b40c36db3886a94bfcf743d9f9a4370a29894640ffeada4e580a1&X-Amz-SignedHeaders=host)" width="100%" />
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145233518/554518613-a4f88bef-8766-46ec-82a2-238dfe02f54a.gif" width="100%" />
 </p>
 <h1 align="center">Hey 👋, I'm Anas</h1>
 <h3 align="center">Frontend Developer • Creative Coder • UI Enthusiast</h3>
