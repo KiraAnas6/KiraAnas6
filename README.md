@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Anas%20Ezzine&fontAlign=50&fontSize=48" />
+<video src="https://github.com/user-attachments/assets/79f13571-2e5d-4ee6-8d29-ed675e54b6f8" muted loop>
 <h1 align="center">Hey 👋, I'm Anas</h1>
 <h3 align="center">Frontend Developer • Creative Coder • UI Enthusiast</h3>
 
