@@ -1,4 +1,4 @@
-<video src="https://github.com/user-attachments/assets/79f13571-2e5d-4ee6-8d29-ed675e54b6f8" muted loop></video>
+<img width="1500" height="400" src="https://github.com/user-attachments/assets/79f13571-2e5d-4ee6-8d29-ed675e54b6f8"></img>
 <h1 align="center">Hey 👋, I'm Anas</h1>
 <h3 align="center">Frontend Developer • Creative Coder • UI Enthusiast</h3>
 
