@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./gif_banner.gif" width="1500" height="200" >
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDF4Yjl4N2thY3ZrbDE5ZjVqZW8yeXdtYThjaW83aGZrbjQ1ZXUwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgTpcy4dkdUc0/giphy.gif" width="1500" height="200" >
 </p>
 <h1 align="center">Hey 👋, I'm Anas</h1>
 <h3 align="center">Frontend Developer • Creative Coder • UI Enthusiast</h3>
